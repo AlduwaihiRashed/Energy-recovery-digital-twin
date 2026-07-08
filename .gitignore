@@ -1,0 +1,23 @@
+# Python / backend
+backend/.venv/
+backend/__pycache__/
+backend/**/__pycache__/
+backend/*.db
+backend/*.db-journal
+backend/*.db-wal
+backend/*.db-shm
+*.pyc
+
+# Node / frontend
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/*.tsbuildinfo
+frontend/next-env.d.ts
+frontend/.scratch/
+
+# misc
+.DS_Store
+*.log
+CLAUDE.md 
+docs/Autonomous\ Energy\ Recovery\ Digital\ Twin\ Platform\ V1.0.pdf 
